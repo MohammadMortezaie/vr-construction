@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://vrplusconstruction.com/</loc><priority>1.0</priority></url>
+  <url><loc>https://vrplusconstruction.com/about.php</loc><priority>0.7</priority></url>
+  <url><loc>https://vrplusconstruction.com/team.php</loc><priority>0.8</priority></url>
+  <url><loc>https://vrplusconstruction.com/services.php</loc><priority>0.9</priority></url>
+  <url><loc>https://vrplusconstruction.com/residential.php</loc><priority>0.9</priority></url>
+  <url><loc>https://vrplusconstruction.com/commercial.php</loc><priority>0.9</priority></url>
+  <url><loc>https://vrplusconstruction.com/custom-homes.php</loc><priority>0.8</priority></url>
+  <url><loc>https://vrplusconstruction.com/renovations.php</loc><priority>0.8</priority></url>
+  <url><loc>https://vrplusconstruction.com/construction-management.php</loc><priority>0.8</priority></url>
+  <url><loc>https://vrplusconstruction.com/structural-engineering.php</loc><priority>0.9</priority></url>
+  <url><loc>https://vrplusconstruction.com/projects.php</loc><priority>0.8</priority></url>
+  <url><loc>https://vrplusconstruction.com/contact.php</loc><priority>0.7</priority></url>
+  <url><loc>https://vrplusconstruction.com/blog/</loc><priority>0.8</priority></url>
+</urlset>

@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://vrplusconstruction.com/sitemap.xml
