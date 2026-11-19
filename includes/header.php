@@ -10,6 +10,13 @@ $load_icons = $load_icons ?? false;
 <!doctype html>
 <html lang="en-CA">
 <head>
+    <!-- Google tag -->
+    <script async src="https://www.googletagmanager.com/gtm.js?id=G-F44PZLB0QX"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+    </script>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title><?= htmlspecialchars($page_title, ENT_QUOTES, 'UTF-8') ?></title>
