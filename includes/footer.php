@@ -42,6 +42,7 @@
             <a href="/commercial.php">Commercial</a>
             <a href="/services.php">All Services</a>
             <a href="/blog/">Blog</a>
+            <a href="/contact.php">Contact Us</a>
         </nav>
 
         <div class="footer-connect">
